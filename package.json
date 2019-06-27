@@ -29,6 +29,7 @@
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
     "moment": "^2.24.0",
+    "ng-example-lib": "^0.0.3",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
@@ -53,6 +54,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3",
-    "webpack-bundle-analyzer": "3.1.0"
+    "webpack-bundle-analyzer": "~3.3.2"
   }
 }
