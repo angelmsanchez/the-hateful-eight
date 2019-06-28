@@ -1,0 +1,9 @@
+comic-lib {
+  --color: green;
+}
+
+:host ::ng-deep comic-lib {
+  p {
+    color: red;
+  }
+}
